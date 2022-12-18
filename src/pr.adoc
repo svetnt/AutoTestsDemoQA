@@ -1,0 +1,8 @@
+privet!
+image::C:\Users\User\Pictures\Avatar.png[]
+uyuy
+image::images/image.png[]
+image::C:/Users/User/Pictures/Avatar.png[]
+[quote,Rūmī]
+____
+Patience is the key to joy.image::C:\Users\User\Pictures\Avatar.png[]____
